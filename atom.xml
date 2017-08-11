@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[THIS BLOG ≈ (XP + STREAM + LOLz)*N]]></title>
+  <link href="http://funfun.github.io/atom.xml" rel="self"/>
+  <link href="http://funfun.github.io/"/>
+  <updated>2017-08-11T12:19:24+02:00</updated>
+  <id>http://funfun.github.io/</id>
+  <author>
+    <name><![CDATA[Tsyren Ochirov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Track of the Day]]></title>
+    <link href="http://funfun.github.io/blog/2017/08/11/track-of-the-day/"/>
+    <updated>2017-08-11T12:11:33+02:00</updated>
+    <id>http://funfun.github.io/blog/2017/08/11/track-of-the-day</id>
+    <content type="html"><![CDATA[<p>i started my day with this track:</p>
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2FRadioXTrack%2Felectronica-25-electriclady-teenspirit%2F&amp;hide_cover=1&amp;light=1" frameborder="0">
+</iframe>
+
+
+<p>and close to lunch this one really reached my mind:</p>
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2FRadioXTrack%2Fsupersoul-35-ford-mustang-supersoul%2F&amp;hide_cover=1&amp;light=1" frameborder="0">
+</iframe>
+
+]]></content>
+  </entry>
+  
+</feed>
